@@ -5,8 +5,8 @@ Mi primer proyecto 🙂
 
 ### Tablero
 
-![Vista Juego Inicial](docs/images/initial-game.png)
+![Tablero inicial](docs/images/initial-game.png)
 
 ### Juego
 
-![Vista Sistema Solar](docs/images/game-example.png)
+![Juego](docs/images/game-example.png)
